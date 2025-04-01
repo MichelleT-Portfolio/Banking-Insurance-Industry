@@ -17,7 +17,7 @@ This repository showcases various data science projects focused on banking and f
 - Owning a Certificate of Deposit account increases the probability of loan interest.
 - Geographic location and the number of credit cards have minimal impact on loan purchases.
 
-📂 [Project Notebook](./personal-loan-targeting.ipynb)
+📂 [Project Notebook](https://github.com/MichelleT-Portfolio/Banking-Insurance-Industry/blob/main/Bank_PersonalLoan_CampaignTargeting.ipynb)
 
 ---
 
@@ -31,7 +31,7 @@ This repository showcases various data science projects focused on banking and f
 - Customers with more than two credit cards need special consideration.
 - Debt status is a critical factor in approval likelihood.
 
-📂 [Project Notebook](./credit-card-approval.ipynb)
+📂 [Project Notebook](https://github.com/MichelleT-Portfolio/Banking-Insurance-Industry/blob/main/Cred_Pay_Project.ipynb)
 
 ---
 
@@ -45,7 +45,7 @@ This repository showcases various data science projects focused on banking and f
 - Higher loan amounts and longer loan durations increase default risk.
 - Renters and younger customers have a higher probability of defaulting.
 
-📂 [Project Notebook](./german-credit-risk.ipynb)
+📂 [Project Notebook](https://github.com/MichelleT-Portfolio/Banking-Insurance-Industry/blob/main/German%20Bank%20Risk_Loan%20Default%20Prediction.ipynb)
 
 ---
 
