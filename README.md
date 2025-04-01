@@ -1,4 +1,3 @@
-# Banking-Insurance-Industry
 # Banking Projects
 
 ## 📌 Overview
