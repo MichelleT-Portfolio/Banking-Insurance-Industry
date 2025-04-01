@@ -60,7 +60,7 @@ This repository showcases various data science projects focused on banking and f
 - A sharp increase in transactions from Q1 to Q4 signals potential churn.
 - Older customers are more likely to leave.
 
-📂 [Project Notebook](./credit-card-churn.ipynb)
+📂 [Project Notebook](https://github.com/MichelleT-Portfolio/Banking-Insurance-Industry/blob/main/Bank_Credit%20Card%20Churn%20Rate%20Prediction.ipynb))
 
 ---
 
